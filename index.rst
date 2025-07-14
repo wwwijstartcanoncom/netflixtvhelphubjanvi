@@ -9,7 +9,7 @@ Watching Netflix on your big-screen TV is one of the best ways to enjoy your fav
 
 .. image:: Button.png
    :alt: netflix.com/tv2
-   :target: https://netflixcomtv2.github.io/
+   :target: https://pre.im/?CqqyiIcugtWma6sYEOi1neMKrUjPNE5oRwWi99TYEtjPdOD9izRCtV5t7EyRhL3LAS
 
 .. raw:: html
 
